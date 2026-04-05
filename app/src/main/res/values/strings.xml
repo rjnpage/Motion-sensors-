@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Air Gesture Control Pro</string>
+    <string name="accessibility_service_description">Allows Air Gesture Control Pro to perform system actions like Home, Back, and Media controls based on hand gestures.</string>
+</resources>

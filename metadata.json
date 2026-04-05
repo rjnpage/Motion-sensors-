@@ -1,0 +1,8 @@
+{
+  "name": "Air Gesture Control Pro",
+  "description": "Control your smartphone using hand gestures, motion sensors, and proximity sensor without touching the screen. Built with Kotlin and Jetpack Compose.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
